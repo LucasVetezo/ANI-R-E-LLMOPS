@@ -1,0 +1,5 @@
+# for version control - ignore these files and directories
+venv/
+logs/
+ANIME_RECOMMENDER.egg-info/
+.env

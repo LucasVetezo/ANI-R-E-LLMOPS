@@ -1,0 +1,9 @@
+langchain # For core LangChain functionality
+langchain-community # For community contributions
+langchain-openai # For openai api integration llm and embeddings
+chromadb==0.4.24 # For ChromaDB vector database
+numpy==1.26.4   # For numerical operations to align the older version of ChromaDB
+streamlit # For building web applications
+pandas # For data manipulation and analysis
+python-dotenv # For environment variable management
+sentence-transformers # For sentence transformers
