@@ -3,4 +3,5 @@ venv/
 logs/
 ANIME_RECOMMENDER.egg-info/
 Process flow.png/
+FULL_DOCUMENTATION/
 .env
